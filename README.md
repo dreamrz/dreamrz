@@ -9,8 +9,6 @@
 
 ![](https://img.shields.io/badge/%E9%82%AE%E7%AE%B1(Email)-DreamRL%40live.com-8A2BE2?logo=maildotru)<br>
 
-
-
 # ✏️开发语言 (Development Language)
 ![](https://img.shields.io/badge/C-%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F-3125d5?logo=c)<br>
 ![](https://img.shields.io/badge/Cpp-%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F-3125d5?logo=c%2B%2B)<br>
@@ -36,6 +34,6 @@ WebGL/Nodejs/simple website<br>
 
 # 🖥️STEAM发布游戏 (STEAM Publishing Games)
 ## 梦境星球 (Dream celestial body) ![](https://img.shields.io/badge/%E5%85%8D%E8%B4%B9(Free)-deff00)
-<a href="https://store.steampowered.com/app/2654570" target="_blank">https://store.steampowered.com/app/2654570</a>
+https://store.steampowered.com/app/2654570
 
 ## 模拟训练室:杀戮 (Simulation Training Room:Massacre) ![](https://img.shields.io/badge/%E5%85%8D%E8%B4%B9(Free)-deff00)
