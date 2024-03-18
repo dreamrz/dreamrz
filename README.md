@@ -4,6 +4,13 @@
 - ![](https://img.shields.io/badge/%E6%80%A7%E5%88%AB(Gender)-%E7%94%B7(Male)-8A2BE2)
 - ![](https://img.shields.io/badge/%E5%B9%B4%E9%BE%84(Age)-1987-8A2BE2)
 
+![](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1(Wechat)-rlzlnet-8A2BE2?logo=wechat)<br>
+<img src="https://raw.githubusercontent.com/dreamrz/dreamrz/main/Image/wechat.jpg" width="145" height="145"><br>
+
+![](https://img.shields.io/badge/%E9%82%AE%E7%AE%B1(Email)-DreamRL%40live.com-8A2BE2?logo=maildotru)<br>
+
+
+
 # ✏️开发语言 (Development Language)
 ![](https://img.shields.io/badge/C-%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F-3125d5?logo=c)<br>
 ![](https://img.shields.io/badge/Cpp-%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F-3125d5?logo=c%2B%2B)<br>
@@ -26,3 +33,9 @@ WebGL/Nodejs/simple website<br>
 # ✏️数据库 (SQL Server)
 ![](https://img.shields.io/badge/MS%20SQL-%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F-3125d5?logo=microsoftsqlserver)<br>
 ![](https://img.shields.io/badge/Sqlite-%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F-3125d5?logo=sqlite)<br>
+
+# 🖥️STEAM发布游戏 (STEAM Publishing Games)
+## 梦境星球 (Dream celestial body) ![](https://img.shields.io/badge/%E5%85%8D%E8%B4%B9(Free)-deff00)
+https://store.steampowered.com/app/2654570
+
+## 模拟训练室:杀戮 (Simulation Training Room:Massacre) ![](https://img.shields.io/badge/%E5%85%8D%E8%B4%B9(Free)-deff00)
