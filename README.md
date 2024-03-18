@@ -36,6 +36,6 @@ WebGL/Nodejs/simple website<br>
 
 # 🖥️STEAM发布游戏 (STEAM Publishing Games)
 ## 梦境星球 (Dream celestial body) ![](https://img.shields.io/badge/%E5%85%8D%E8%B4%B9(Free)-deff00)
-https://store.steampowered.com/app/2654570
+<a href="https://store.steampowered.com/app/2654570" target="_blank">https://store.steampowered.com/app/2654570</a>
 
 ## 模拟训练室:杀戮 (Simulation Training Room:Massacre) ![](https://img.shields.io/badge/%E5%85%8D%E8%B4%B9(Free)-deff00)
